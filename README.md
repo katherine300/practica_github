@@ -1,3 +1,2 @@
-# practica_github 
-                 Katherine
-                          300
+# practica_github        Katherine
+ 
